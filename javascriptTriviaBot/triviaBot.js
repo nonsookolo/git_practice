@@ -1,0 +1,13 @@
+console.log("Hello! I'm your coding fun fact guide!");
+let botName = "bot";
+let botLocation = "the universe";
+let favoriteLanguage = "javascript";
+console.log("My name is " + botName + " and I live on " + botLocation + ".");
+console.log("My favorite programming language is " + favoriteLanguage + ".");
+let codingFact = "I love coding with " + favoriteLanguage + "!";
+console.log(codingFact);
+codingFact = "I love frying eggs with " + favoriteLanguage + "!";
+console.log(codingFact);
+codingFact = "I love making apps with " + favoriteLanguage + "!";
+console.log(codingFact);
+console.log("It was fun sharing these facts with you. Goodbye! - " + botName + " from " + botLocation + ".");
